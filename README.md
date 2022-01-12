@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GuillaumeZELER
+- 👀 I’m interested in strategical video games (total war...), music (hard rock/metal) and my child :)
+- 🌱 I’m currently learning web development (html, css, php and javascript).
+- 💞️ I’m looking to collaborate with @HeliaCerbonne on new exiting projects.
+- 📫 How to reach me : guillaume.zeler@hotmail.fr
